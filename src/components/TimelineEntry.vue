@@ -24,7 +24,7 @@ export default {
   margin-right: auto;
   text-align: center;
   margin-bottom: 24px;
-  padding-left: 40px;
+  padding: 0 40px;
   position: relative;
 }
 
