@@ -28,6 +28,8 @@ export default {
   width: 100%;
   min-height: 200px;
   padding: 20px 15px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .Timeline__Inner {
